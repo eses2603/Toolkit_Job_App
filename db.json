@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "id": "5",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "1/12/2023"
+    },
+    {
+      "id": "7d4b8f91-cdf8-4017-9aef-19734b01247c",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": "2/29/2024"
+    },
+    {
+      "id": "95cedbd1-2ca5-419e-b7be-35bb35ef9fa2",
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": "9/29/2024"
+    },
+    {
+      "id": "dfa3f1c6-8533-4cac-873c-64479ecec34a",
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Türkiye",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "2/29/2022"
+    },
+    {
+      "id": "4e8acabe-db6b-4068-85ae-6a3daa78eb14",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": "12.03.2024"
+    },
+    {
+      "id": "82cd7f2a-d8e8-4a79-a16f-0e7e0dc39a28",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Devam Ediyor",
+      "type": "Staj",
+      "date": "12.03.2024"
+    }
+  ]
+}
